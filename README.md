@@ -1,5 +1,5 @@
 # nlp-notebooks
-A collection of notebooks for Natural Language Processing from NLP Town
+A collection of notebooks for Natural Language Processing from NLP Town(A very great resource for data scientists)
 
 ## NLP 101
 
